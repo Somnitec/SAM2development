@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SAM2android</string>
+    <string name="button_buy">buy some delicious kefir soda</string>
+    <string name="button_send">send something to arduino</string>
 </resources>
