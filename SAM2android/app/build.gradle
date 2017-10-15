@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
+    compileSdkVersion 19
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "club.nonhuman.sam2android"
-        minSdkVersion 23
+        minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
