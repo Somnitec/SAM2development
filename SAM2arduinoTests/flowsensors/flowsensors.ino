@@ -2,7 +2,7 @@ float waterFlow = 0;
 
 void setup() {
   //pinMode(18, INPUT);
-  attachInterrupt(7, flowSensor, RISING); //flowsensor setup
+  attachInterrupt(15, flowSensor, RISING); //flowsensor setup
   Serial.begin(9600);
 }
 
